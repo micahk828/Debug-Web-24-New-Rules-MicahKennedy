@@ -1,0 +1,21 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: blanchedalmond;
+}
+
+p {
+  font-size:18px;
+  font-family: 'Bubblegum Sans', sans-serif;
+  color: lightskyblue;
+}
+
+h1,h3 {
+  color:mediumvioletred;
+  border: 4px;
+  border-radius: 8%;
+  border-color: purple;
+  border-style: dotted;
+  padding: 4px;
+}
